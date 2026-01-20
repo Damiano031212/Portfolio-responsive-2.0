@@ -349,7 +349,6 @@ html.menu-transition-active .overlay-link div {
     width: 100%;
     aspect-ratio: 357/193;
     background: url(cloche_mobile_corretta.svg) no-repeat center;
-    background-size: contain;
     margin: 0;
 }
 #photo_smaller_mini{
@@ -437,13 +436,13 @@ html.menu-transition-active .overlay-link div {
     aspect-ratio: 	308/163;
 
     background: url(palette.png) no-repeat center;
-    background-size: 98%;
+    background-size: 92%;
 }
 
 #tipografia{
     aspect-ratio: 326/125;
     background: url(tipografia.png) no-repeat center;
-    background-size: 96%;
+    background-size: 90%;
 }
 
 #palette_tittle{
@@ -467,7 +466,7 @@ html.menu-transition-active .overlay-link div {
 #verso_mockup_staff{
     aspect-ratio: 600/295;
     background: url(staff_mobile.png)no-repeat center;
-    background-size: 93%;
+    background-size: 90%;
     padding-bottom: 0px;
     padding: 0 0;
 
@@ -476,13 +475,13 @@ html.menu-transition-active .overlay-link div {
 #magliette_verso{
     aspect-ratio: 	89/48;
     background: url(magliette_mobile.png) no-repeat center;
-    background-size: 96%;
+    background-size: 93%;
 }
 
 #marchi_verso{
     aspect-ratio: 50/21;
     background: url(verso_marchi.png) no-repeat center;
-    background-size: 93%;
+    background-size: 90%;
 }
 @media screen and (min-width: 1024px){
 #container {
@@ -1524,5 +1523,6 @@ a {
     margin-bottom: 0;
 }
 }
+
 
 
